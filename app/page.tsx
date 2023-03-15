@@ -6,6 +6,7 @@ import {aboutMe, skills, professionalData} from "./component/data/page-data"
 import ProfessionalExperience from './component/professional-experience'
 const inter = Inter({ subsets: ['latin'] })
 
+
 export default function Home() {
   return (
     <div >
